@@ -6,7 +6,7 @@ In this project, we'll generate our own Simpsons TV scripts using RNNs. we'll be
 
 ## Prerequisites
 
-you much know the basics of the Recurrent Neural Network (RNN) and Word Embedding to be able to understand this project.
+you must know the basics of the Recurrent Neural Network (RNN) and Word Embedding to be able to understand this project.
 
 ## Built With
 
